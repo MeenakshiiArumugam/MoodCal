@@ -12,7 +12,7 @@ This project was developed using **React** for the frontend and **Node.js (Expre
 
 ## 🔗 Live Links
 
-- **Frontend (React + Netlify)**: [https://resilient-dolphin-3674c1.netlify.app/](https://resilient-dolphin-3674c1.netlify.app/)
+- **Frontend (React + Netlify)**: [https://mood-calender.netlify.app/](https://mood-calender.netlify.app/)
 - **Backend (Node.js + Render)**: [https://moodcal.onrender.com](https://moodcal.onrender.com)
 
 ---
