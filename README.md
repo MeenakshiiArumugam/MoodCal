@@ -4,11 +4,15 @@
 
 This project was developed using **React** for the frontend and **Node.js (Express)** for the backend. It is designed to be responsive, user-friendly, and lightweight — ideal for personal use or as a foundational mental wellness tracker.
 
----
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/53970e5d-930e-489a-af79-ba4deb129232)
+![image](https://github.com/user-attachments/assets/0441c03c-8782-46c0-af63-a62804dfec90)
+
 
 ## 🔗 Live Links
 
-- **Frontend (React + Netlify)**: [https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)
+- **Frontend (React + Netlify)**: [https://resilient-dolphin-3674c1.netlify.app/](https://resilient-dolphin-3674c1.netlify.app/)
 - **Backend (Node.js + Render)**: [https://moodcal.onrender.com](https://moodcal.onrender.com)
 
 ---
